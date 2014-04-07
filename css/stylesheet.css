@@ -1,0 +1,83 @@
+a {
+	text-decoration: none;
+}
+
+/* page wrapper-holds content in center of page */
+#wrapper {
+	max-width: 940px;
+	margin: 0 auto;
+	padding: 30px 5%;
+	background: ;
+}
+
+/* profile pic */
+#logo{
+	text-align: center;
+	margin: 0;
+	font-family: 'Avenir', sans-serif;
+	font-weight: normal;
+	color: #373737;
+}
+
+/* navigation */
+.links {
+	list-style-type: none;
+}
+
+nav ul {
+	text-align: right;
+}
+
+nav li {
+	display: inline;
+	padding-right: 30px;
+	font-size: 16px;
+	
+}
+
+nav a {
+	color: #373737;	
+}
+nav a:hover {
+	color: #747474;
+}
+
+/* paragraph rule */
+.horizontalRule {
+	border: 1.5px solid;
+	clear:both; width: 100%;
+	color: #373737;
+}
+
+/* site body */
+body{
+	background-color: #fff;
+}
+
+.intro p {
+	font-family: Fjord One, serif;
+	font-size: 32px;
+	text-indent: 30px;
+	color: #373737;
+}
+
+#listhead {
+	font-family: 'Avenir', sans-serif;
+	font-size: 32px;
+}
+
+li {
+	color: #373737;
+	font-size: 24px;
+}
+
+
+
+footer {
+	color: #373737;
+}
+
+
+
+
+
